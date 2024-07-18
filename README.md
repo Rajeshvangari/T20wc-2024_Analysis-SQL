@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+
 
 # T20wc-2024_Analysis-SQL
 
@@ -11,4 +11,5 @@ For the first time, the tournament field expanded from 16 to 20 teams, including
 India emerged as the champions, defeating South Africa in the final by 7 runs. Virat Kohli was named the Player of the Match and Jasprit Bumrah clinched the Player of the Tournament award.
 
 The tournament witnessed several historic moments, including Canada's first T20 World Cup victory, Afghanistan's first win against New Zealand in T20Is, and Bangladesh's first win against Sri Lanka in a T20 World Cup.
+![Uploading image.png…]()
 
