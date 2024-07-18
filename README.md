@@ -1,4 +1,4 @@
-# T20wc-2024_Analysis-SQL
+![image](https://github.com/user-attachments/assets/e9d895b7-d17b-4d25-a06e-ad0e3dfa1ea5)# T20wc-2024_Analysis-SQL
 
 ICC Men's T20 World Cup 2024
 
