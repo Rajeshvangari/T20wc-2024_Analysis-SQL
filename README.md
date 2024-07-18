@@ -1,4 +1,5 @@
 ![Uploading image.png…]()
+
 # T20wc-2024_Analysis-SQL
 
 ICC Men's T20 World Cup 2024
